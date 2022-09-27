@@ -1,6 +1,6 @@
 {
   "name": "react-conditionalfragment",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "React component that only renders its contents if it's showIf prop is true.",
   "main": "dist/lib/commonjs/index.js",
   "module": "dist/lib/esm/index.js",
